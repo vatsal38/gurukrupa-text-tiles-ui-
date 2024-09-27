@@ -170,19 +170,19 @@ function Workers() {
                         }}
                       >
                         <UserAvatar name={row?.name} />
-                        {row.name}
+                        {row?.name}
                       </StyledTableCell>
                       <StyledTableCell align="right">
-                        {row.phone}
+                        {row?.phone}
                       </StyledTableCell>
                       <StyledTableCell align="right">
-                        {row.currentAddress}
+                        {row?.currentAddress}
                       </StyledTableCell>
                       <StyledTableCell align="right">
-                        {row.permanentAddress}
+                        {row?.permanentAddress}
                       </StyledTableCell>
                       <StyledTableCell align="right">
-                        {row.referenceName}
+                        {row?.referenceName}
                       </StyledTableCell>
                       <StyledTableCell align="right" sx={{ width: "200px" }}>
                         <IconButton

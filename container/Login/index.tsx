@@ -52,7 +52,7 @@ function Login() {
         <div className="flex shadow-md">
           <div className="flex flex-wrap content-center justify-center rounded-l-md bg-white w-[24rem] h-[32rem]">
             <div className="w-72">
-              <h1 className="text-xl font-semibold">GURUKRUPA TEXT TILES</h1>
+              <h1 className="text-xl font-semibold">GURUKRUPA FASHION</h1>
               <small className="text-gray-400">
                 Welcome back! Please enter your details
               </small>
