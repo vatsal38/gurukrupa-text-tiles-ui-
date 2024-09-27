@@ -56,12 +56,6 @@ export default function DashBoard() {
       href: "/sellers",
     },
     {
-      name: "Stock",
-      itemCount: dashboardData?.stockCount,
-      buttonName: "View Stock",
-      href: "/stock-management",
-    },
-    {
       name: "Worker",
       itemCount: dashboardData?.workerCount,
       buttonName: "View Worker",
